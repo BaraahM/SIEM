@@ -23,3 +23,5 @@ brew install --cask docker
 open /Applications/Docker.app
 
 
+Step 2: Create Docker Network
+Create a Docker network for the ELK stack components
